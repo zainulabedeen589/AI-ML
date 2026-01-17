@@ -1,0 +1,22 @@
+INFO:root:Program started
+INFO:root:User entered: 4
+INFO:root:User entered: 5
+INFO:root:Result of division: 0.8
+INFO:root:Program ended successfully
+DEBUG:root:Execution completed
+INFO:root:Program started
+INFO:root:User entered: 345
+ERROR:root:An error occurred : invalid literal for int() with base 10: 'fassfda'
+DEBUG:root:Execution completed
+INFO:root:Program started
+INFO:root:User entered: 546
+INFO:root:User entered: 65
+INFO:root:Result of division: 8.4
+INFO:root:Program ended successfully
+DEBUG:root:Execution completed
+2025-11-09 20:24:33,315 - INFO - Program started
+2025-11-09 20:24:34,782 - INFO - User entered: 345
+2025-11-09 20:24:35,245 - INFO - User entered: 345
+2025-11-09 20:24:35,245 - INFO - Result of division: 1.0
+2025-11-09 20:24:35,245 - INFO - Program ended successfully
+2025-11-09 20:24:35,245 - DEBUG - Execution completed
